@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lost-ark/static/css/main.a2a6a879.css",
-    "main.js": "/lost-ark/static/js/main.35a4007f.js",
+    "main.css": "/lost-ark/static/css/main.7deaa85a.css",
+    "main.js": "/lost-ark/static/js/main.e99cc34d.js",
     "static/media/img-2.jpg": "/lost-ark/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-1.jpg": "/lost-ark/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/lost-ark/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/mokokomomlogo.png": "/lost-ark/static/media/mokokomomlogo.e7f03fb3fc1416a540bd.png",
     "index.html": "/lost-ark/index.html",
-    "main.a2a6a879.css.map": "/lost-ark/static/css/main.a2a6a879.css.map",
-    "main.35a4007f.js.map": "/lost-ark/static/js/main.35a4007f.js.map"
+    "main.7deaa85a.css.map": "/lost-ark/static/css/main.7deaa85a.css.map",
+    "main.e99cc34d.js.map": "/lost-ark/static/js/main.e99cc34d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2a6a879.css",
-    "static/js/main.35a4007f.js"
+    "static/css/main.7deaa85a.css",
+    "static/js/main.e99cc34d.js"
   ]
 }
