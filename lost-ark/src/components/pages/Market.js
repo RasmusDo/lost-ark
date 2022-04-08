@@ -5,7 +5,7 @@ import Footer from '../Footer';
 function Market() {
   return (
     <>
-      <h1>YOYO</h1>
+      <h1>YO mannen</h1>
       <Footer />
     </>
   );
