@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className="hero-container">
-      <h1>Trending Items</h1>
+      <h1 class="h1header">Trending Items</h1>
       <div class="centered">
         <section class="cards">
           <div class="card">
